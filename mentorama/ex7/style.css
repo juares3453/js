@@ -1,0 +1,23 @@
+h1 {
+  color: #38251e;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-size: 24px;
+}
+p {
+  font-weight: 600;
+  letter-spacing: 4px;
+  line-height: 50px;
+}
+p strong {
+  background-color: #000000;
+  color: #ffffff;
+}
+p span {
+  color: #776048;
+}
+div {
+  background-color: #dec08d;
+}
